@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jvanburk.github.io/resources-adhxx5/sitemap.xml
